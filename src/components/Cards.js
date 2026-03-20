@@ -29,9 +29,9 @@ function Cards() {
                     path='/services'
                     />
                     <Carditem 
-                    src="/images/img-3.jpg"
+                    src="/images/img-10.jpg"
                     text="Chase the horizon. Find yourself beyond it."
-                    label='BEAUTY'
+                    label='marvel'
                     path='/services'
                     />
                     <Carditem 
