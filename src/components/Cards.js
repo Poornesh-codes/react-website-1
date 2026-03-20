@@ -20,7 +20,26 @@ function Cards() {
                     label='BEAUTY'
                     path='/services'
                     />
-  
+                </ul>
+                 <ul className="cards__items">
+                    <Carditem 
+                    src="/images/img-2.jpg"
+                    text="Step into the wild, where nature speaks and time slows down."
+                    label='Adventure'
+                    path='/services'
+                    />
+                    <Carditem 
+                    src="/images/img-3.jpg"
+                    text="Chase the horizon. Find yourself beyond it."
+                    label='BEAUTY'
+                    path='/services'
+                    />
+                    <Carditem 
+                    src="/images/img-4.jpg"
+                    text="Chase the horizon. Find yourself beyond it."
+                    label='BEAUTY'
+                    path='/services'
+                    />
                 </ul>
 
             </div>
