@@ -20,7 +20,7 @@ function Cards() {
                     label='BEAUTY'
                     path='/services'
                     />
-                    
+  
                 </ul>
 
             </div>
